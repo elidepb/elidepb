@@ -57,7 +57,6 @@ Soy un **Software Engineer** apasionado por la ingeniería de software y arquite
 
 <p align="center">
   <!-- GitHub Stats with private contributions -->
-  <img src="https://github-readme-stats.vercel.app/api?username=elidepb&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=elidepb&theme=dark" alt="GitHub Streak" width="96%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elidepb&layout=compact&theme=dark" alt="Top Languages" />
 </p>
